@@ -1,0 +1,13 @@
+ARTÍCULO 3°
+Descripción de los elementos centrales que deben respetarse en la Producción Agroecológica:
+Mantenimiento del suelo vivo, para su conservación y la del agua, mediante prácticas de laboreo variadas y adaptadas al lugar como, por ejemplo: laboreo mínimo, labranza vertical, labranza tradicional, siembra directa, siembras al voleo, siembras sobre el tapiz, cobertura vegetal seca, cultivos de cubierta verdes de invierno y de verano, y curvas de nivel;
+Suministro regular de materia orgánica mediante el uso de compostaje y/o estercoleros maduros, cenizas, lombricompuestos, biofertilizantes y terapéuticos (aprobados por la agricultura orgánica); y rotaciones de cultivos y producciones planificadas.
+Reciclaje de nutrientes mediante rotaciones de cultivos, asociaciones de plantas, cultivos en franjas, agroforesteria, frutales y cultivos intercalados basados en leguminosas y otras especies;
+Prevención y control natural de plagas y enfermedades mediante el uso de biopreparados, tramperos, plantas repelentes y atrayentes, así como la diversificación, introducción y conservación de los enemigos naturales y con todos aquellos productos habilitados en el registro de producción orgánica;
+Cumplimiento de las necesidades básicas del bienestar animal en el establecimiento: espacio adecuado, sombra, alimento, agua, etc. para favorecer la salud física y el estado emocional de los animales.
+Disminución progresiva del uso de productos de síntesis química durante el período de transición a la producción agroecológica (el cual no podrá extenderse más de un año, salvo excepciones) hasta independizarse de los mismos.
+Producción, selección y conservación de materiales genéticos locales, regionales y nacionales de semillas, plantines y animales; sin la utilización de técnicas de cruzamiento genético no naturales o que deban ser producidas dentro de un laboratorio de biotecnología o de ingeniería genética, con excepción del uso de las tecnologías de cultivos in vitro para la obtención de plantas libres de enfermedades (virus, hongos y/o bacterias) tal cual lo estipula la resolución 270/2000 del SENASA.
+Producción que mejora la capacidad de abastecimiento de alimentos para la población, respetando la diversidad productiva y cultural.
+En el caso de algún producto o técnica no detallada en la presente ordenanza, deberá ser considerada, analizada y consensuada junto al Observatorio Social Facilitador Agroecológico (OSFA) el cual se describe en el capítulo IV de la presente ordenanza y la Comisión Asesora Provincial de Producciones Agroecológicas (CAPPA) cuyo fallo será inapelable.
+CAPÍTULO II
+DE LA DIRECCIÓN Y EJECUCIÓN DE LOS PLANES Y POLÍTICAS AGROECOLÓGICAS
