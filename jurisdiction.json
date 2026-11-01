@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-exaltacion-de-la-cruz",
+  "code": "AR-B-EXALTACION-DE-LA-CRUZ",
+  "name": "Exaltación de la Cruz",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-exaltacion-de-la-cruz-city-law",
+  "build": "built: municipal ordinances (179 ordinances, 179 versions) from https://sibom.slyt.gba.gob.ar/cities/40",
+  "language": "es",
+  "sources": 1
+}
