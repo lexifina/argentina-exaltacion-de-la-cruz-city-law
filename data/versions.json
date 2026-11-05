@@ -2506,6 +2506,230 @@
      "sha256": "8a7c1ace02b501ea387f048bd9f93830e423d51403c78e9758fe8f3423ec955f"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-2467-2018",
+   "short": "Ordenanza 2467/2018",
+   "title": "Ordenanza 2467/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1503/contents/1255984",
+   "versions": [
+    {
+     "from": "2018-10-26",
+     "units": 1,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1503/contents/1255984",
+     "sha256": "6fbad507964b5605df29b92ffd22ad47c705d5b2a87df43b5a66a1ef7a784454"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-2473-2018",
+   "short": "Ordenanza 2473/2018",
+   "title": "Ordenanza 2473/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1820/contents/1283950",
+   "versions": [
+    {
+     "from": "2019-01-17",
+     "units": 1,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1820/contents/1283950",
+     "sha256": "e736c04b02ca65bdf3d729221a778a1e64112d2d83ede519e7decebc847cf86a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-2474-2018",
+   "short": "Ordenanza 2474/2018",
+   "title": "Ordenanza 2474/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1820/contents/1283952",
+   "versions": [
+    {
+     "from": "2019-01-17",
+     "units": 1,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1820/contents/1283952",
+     "sha256": "f326d19d3ba20b205f266bc58e18c00a3f5193879bb1d95ddcc41b10076855e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-2479-2018",
+   "short": "Ordenanza 2479/2018",
+   "title": "Ordenanza 2479/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1820/contents/1283958",
+   "versions": [
+    {
+     "from": "2019-01-17",
+     "units": 1,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1820/contents/1283958",
+     "sha256": "3b7b0d15f7a3acacf7b8e4d8d778e422a8318dbd56ebf4260cf106540782c723"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-2484-2018",
+   "short": "Ordenanza 2484/2018",
+   "title": "Ordenanza 2484/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1826/contents/1284931",
+   "versions": [
+    {
+     "from": "2019-01-18",
+     "units": 1,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1826/contents/1284931",
+     "sha256": "4550faff031d19b33fabc774935679db32b8d7685af631719970e3f629ad962a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-2485-2018",
+   "short": "Ordenanza 2485/2018",
+   "title": "Ordenanza 2485/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1826/contents/1284933",
+   "versions": [
+    {
+     "from": "2018-06-19",
+     "units": 1,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1826/contents/1284933",
+     "sha256": "fb5ca6d2e8c8f51fa611bc9a77d09574d3bc9a438b39fd2e4e4624825f381c92"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-2492-2018",
+   "short": "Ordenanza 2492/2018",
+   "title": "Ordenanza 2492/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1837/contents/1286430",
+   "versions": [
+    {
+     "from": "2018-07-03",
+     "units": 1,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1837/contents/1286430",
+     "sha256": "1538840d5000dcfa6f8af31e0c77303c92ccb4711e4075eed081d9857dc9e665"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-2496-2018",
+   "short": "Ordenanza 2496/2018",
+   "title": "Ordenanza 2496/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1861/contents/1288919",
+   "versions": [
+    {
+     "from": "2019-01-26",
+     "units": 1,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1861/contents/1288919",
+     "sha256": "38dde4c9820358b5a645a37ea92c5b2c23b66ceb81784d442f9f56b9ab32248c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-2508-2018",
+   "short": "Ordenanza 2508/2018",
+   "title": "Ordenanza 2508/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2086/contents/1313354",
+   "versions": [
+    {
+     "from": "2019-04-17",
+     "units": 1,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2086/contents/1313354",
+     "sha256": "672849ef6b409696fd0b9a2214350d200e1c52cbf6f35eb9ce451c7324661148"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-2515-2018",
+   "short": "Ordenanza 2515/2018",
+   "title": "Ordenanza 2515/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2086/contents/1313404",
+   "versions": [
+    {
+     "from": "2019-04-17",
+     "units": 1,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2086/contents/1313404",
+     "sha256": "7e4a284c81df1362c1fd07ede97a4b861c645856e50ac026676c259780283f88"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-2518-2018",
+   "short": "Ordenanza 2518/2018",
+   "title": "Ordenanza 2518/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2086/contents/1313411",
+   "versions": [
+    {
+     "from": "2019-04-17",
+     "units": 1,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2086/contents/1313411",
+     "sha256": "19625c7144b61b165f5b446282db9a4045510157b813a9e5e1d47ef67938cf24"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-2520-2018",
+   "short": "Ordenanza 2520/2018",
+   "title": "Ordenanza 2520/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2086/contents/1313416",
+   "versions": [
+    {
+     "from": "2019-04-17",
+     "units": 1,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2086/contents/1313416",
+     "sha256": "a5ca64e0659969badd157f52d6ea2dbabcdf897553b21bc6ca78f05cb6e1fbc4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-2533-2018",
+   "short": "Ordenanza 2533/2018",
+   "title": "Ordenanza 2533/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2086/contents/1314654",
+   "versions": [
+    {
+     "from": "2019-04-17",
+     "units": 1,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2086/contents/1314654",
+     "sha256": "702d2f5fb443e5168c21a18a874a21500ac310e8a99e8dfef7487f6357ffbde1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-2542-2018",
+   "short": "Ordenanza 2542/2018",
+   "title": "Ordenanza 2542/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2118/contents/1314885",
+   "versions": [
+    {
+     "from": "2019-04-17",
+     "units": 1,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2118/contents/1314885",
+     "sha256": "8570e8181c37d21df5077e7789e799031d7f4e20d5e1b7b61245a73bc40c486d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-2555-2018",
+   "short": "Ordenanza 2555/2018",
+   "title": "Ordenanza 2555/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2118/contents/1314897",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 1,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2118/contents/1314897",
+     "sha256": "e0f513f56a6740fbbac2912c1b3a20f1ebc636a15887dff922f9da8a746fec2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-2561-2019",
+   "short": "Ordenanza 2561/2019",
+   "title": "Ordenanza 2561/2019",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2219/contents/1323557",
+   "versions": [
+    {
+     "from": "2019-06-14",
+     "units": 1,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2219/contents/1323557",
+     "sha256": "3947e445d93c60e908c8279979619af05ab90c2fb2386321ccdabd3cd840c7d7"
+    }
+   ]
   }
  ]
 }

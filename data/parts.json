@@ -198,6 +198,27 @@
     "ordenanza-3404-2025"
    ],
    "sha256": "d99afbcd44a7ef824069ea136ff0a5564cd7f373cf2befbe5a86fc1329880950"
+  },
+  "52-q237-reviewed-texts.json": {
+   "acts": [
+    "ordenanza-2467-2018",
+    "ordenanza-2473-2018",
+    "ordenanza-2474-2018",
+    "ordenanza-2479-2018",
+    "ordenanza-2484-2018",
+    "ordenanza-2485-2018",
+    "ordenanza-2492-2018",
+    "ordenanza-2496-2018",
+    "ordenanza-2508-2018",
+    "ordenanza-2515-2018",
+    "ordenanza-2518-2018",
+    "ordenanza-2520-2018",
+    "ordenanza-2533-2018",
+    "ordenanza-2542-2018",
+    "ordenanza-2555-2018",
+    "ordenanza-2561-2019"
+   ],
+   "sha256": "3d53192bab04e6db5e0bf418baad4d54b28addcf98fc1f062eedbe3f23f7d242"
   }
  },
  "schema": 1

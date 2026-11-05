@@ -7,6 +7,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Exaltación de la Cruz | <https://sibom.slyt.gba.gob.ar/cities/40> | 2026-11-01 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| Boletín Oficial Municipal de Exaltación de la Cruz (SIBOM) | <https://sibom.slyt.gba.gob.ar/cities/40> | 2026-11-05 | Official municipal ordinances reproduced with attribution, following the official text. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -193,12 +194,28 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-3157-2026` | Ordenanza 3157/2026: Ordenanza 3157/2026 | 1 | 2026-10-11 to 2026-10-11 |
 | `ordenanza-3158-2026` | Ordenanza 3158/2026: Ordenanza 3158/2026 | 1 | 2026-10-28 to 2026-10-28 |
 | `ordenanza-3149-2026` | Ordenanza 3149/2026: Ordenanza 3149/2026 | 1 | 2026-11-04 to 2026-11-04 |
+| `ordenanza-2467-2018` | Ordenanza 2467/2018 | 1 | 2018-10-26 to 2018-10-26 |
+| `ordenanza-2473-2018` | Ordenanza 2473/2018 | 1 | 2019-01-17 to 2019-01-17 |
+| `ordenanza-2474-2018` | Ordenanza 2474/2018 | 1 | 2019-01-17 to 2019-01-17 |
+| `ordenanza-2479-2018` | Ordenanza 2479/2018 | 1 | 2019-01-17 to 2019-01-17 |
+| `ordenanza-2484-2018` | Ordenanza 2484/2018 | 1 | 2019-01-18 to 2019-01-18 |
+| `ordenanza-2485-2018` | Ordenanza 2485/2018 | 1 | 2018-06-19 to 2018-06-19 |
+| `ordenanza-2492-2018` | Ordenanza 2492/2018 | 1 | 2018-07-03 to 2018-07-03 |
+| `ordenanza-2496-2018` | Ordenanza 2496/2018 | 1 | 2019-01-26 to 2019-01-26 |
+| `ordenanza-2508-2018` | Ordenanza 2508/2018 | 1 | 2019-04-17 to 2019-04-17 |
+| `ordenanza-2515-2018` | Ordenanza 2515/2018 | 1 | 2019-04-17 to 2019-04-17 |
+| `ordenanza-2518-2018` | Ordenanza 2518/2018 | 1 | 2019-04-17 to 2019-04-17 |
+| `ordenanza-2520-2018` | Ordenanza 2520/2018 | 1 | 2019-04-17 to 2019-04-17 |
+| `ordenanza-2533-2018` | Ordenanza 2533/2018 | 1 | 2019-04-17 to 2019-04-17 |
+| `ordenanza-2542-2018` | Ordenanza 2542/2018 | 1 | 2019-04-17 to 2019-04-17 |
+| `ordenanza-2555-2018` | Ordenanza 2555/2018 | 1 | 2019-01-01 to 2019-01-01 |
+| `ordenanza-2561-2019` | Ordenanza 2561/2019 | 1 | 2019-06-14 to 2019-06-14 |
 
-The build made 180 commits:
+The build made 196 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 180 | first version of an act |
+| 196 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -206,7 +223,7 @@ Other counts:
 - 1 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 179 laws in the record.
-- 359 tags.
+- 375 tags.
 
 ## Dates
 
@@ -218,15 +235,15 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `7c9f9c29e4cda3bba64411967de2e47194e896a72259a0020b9b6cdf863affd1` (1427963 bytes).
+- Corpus: sha256 `64c5bfd8d1ae71a67615cf97c9f138b0b41882aadd6076b62418e5ab8b114fce` (1482101 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-179 versions of 179 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 195 history commits and 374 tags (history tip `85a6a64bd74bd237e7b6169b07a7ac54ecc34f1e`).
 
 ## Decisions made by hand
 
@@ -235,6 +252,10 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- These sixteen ordinance texts are new additions to the published corpus. Texts are as published, without consolidation of later amendments.
+- Own approval-based or expressly named commencement dates override the publication convention: Ordenanza 2492/2018 starts on approval, 3 July 2018; 2555/2018 names 1 January 2019; 2485/2018 starts on approval, 19 June 2018.
+- Other included instruments use the recorded publication-plus-nine-days convention after review of the complete text. Prior debt periods describe the liabilities affected rather than the commencement of a later instrument authorizing their cancellation.
+- Eleven other ordinance texts remain outside this part because promulgation, instalment dates or provision-specific temporal boundaries have not been established. No commencement date is asserted for those held texts.
 
 ## What AI did and did not do
 
@@ -246,3 +267,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- GPT-6 reviewed source timing clauses and wrote validation code and editorial metadata; no model wrote or corrected legal text, and no OCR was used.
